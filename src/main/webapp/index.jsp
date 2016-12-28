@@ -120,10 +120,10 @@ Ext.onReady(function(){
 </script>
 </head>
 <body>
-	<h1>下拉框</h1>
+	<h1>下拉框111</h1>
 	<div id="comboId"></div>
 	
-	<h1>列表</h1>
+	<h1>列表111</h1>
 	<div id="gridId"></div>
 </body>
 </html>
